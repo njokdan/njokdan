@@ -6,7 +6,7 @@ I am Daniel Njoku. I am a fullstack developer, an avid learner who is passionate
 
 - 🔭 I’m currently working on Data related software project
 - 🌱 I’m currently learning and using MERN MEAN MEVN
-- *abc*a# I have worked on a USSD based application
+- *abc*a# I have worked on USSD based applications using USSD services
 - 💬 Ask me about any Questions Related to front end and backend Technology
 - 📫 How to reach me: +234 809 445 1628 or njokdan@gmail.com
 <!--- 👯 I’m looking to collaborate on ...
