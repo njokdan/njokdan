@@ -3,7 +3,7 @@
 <!--**njokdan/njokdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 I am a fullstack developer, an avid learner who is passionate about web technologies and not just building things with code but using code to solve human problems. <!--I love creating open-source projects and contributing to the community.-->
-Some technologies I enjoy working with include, Reactjs, Angular, Vue, C#, NodeJs, SailsJs, Expressjs, PHP, MongoDB, SQL, Firebase and REST.
+Some technologies I enjoy working with include, Reactjs, Angular, Vue, C#, NodeJs, SailsJs, Expressjs, PHP, Python, MongoDB, SQL, Firebase and REST.
 Currently, I am available for hire
 
 - 🔭 I’m currently working on Data related software project
