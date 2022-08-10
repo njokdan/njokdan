@@ -6,7 +6,8 @@ I am a Cloud Engineer, DevOps Engineer, fullstack developer, Data Analyst and Da
 Some technologies I enjoy working with include, Reactjs, Angular, Vue, C#, NodeJs, SailsJs, Expressjs, PHP, Python, MongoDB, SQL, Firebase, Tableau, Power BI, AWS, Azure, Terraform, Docker and REST.
 Currently, I am available for hire
 
-- 🔭 I’m currently working on Data related software project
+- 🔭I’m currently working on Cloud and DevOps related project
+-  I’m currently working on Data related software project
 - 🌱 I’m currently learning and using MERN MEAN MEVN
 -   I have worked on PHP/Laravel based applications
 - *abc*a# I have worked on USSD based applications using USSD services
