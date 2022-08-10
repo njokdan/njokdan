@@ -2,7 +2,7 @@
 
 <!--**njokdan/njokdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-I am a fullstack developer, Data Analyst and Engineer, an avid learner who is passionate about web technologies and not just building things with code but using code to solve human problems. <!--I love creating open-source projects and contributing to the community.-->
+I am a Cloud Engineer, DevOps Engineer, fullstack developer, Data Analyst and Data Engineer, an avid learner who is passionate about web technologies and not just building things with code but using code to solve human problems. <!--I love creating open-source projects and contributing to the community.-->
 Some technologies I enjoy working with include, Reactjs, Angular, Vue, C#, NodeJs, SailsJs, Expressjs, PHP, Python, MongoDB, SQL, Firebase, Tableau, Power BI, AWS, Azure, Terraform, Docker and REST.
 Currently, I am available for hire
 
