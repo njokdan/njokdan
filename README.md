@@ -10,7 +10,7 @@ Currently, I am available for hire
 -  I’m currently working on Data related software projects
 - 🌱 I’m currently learning and using MERN MEAN MEVN
 -   I have worked on PHP/Laravel based applications
-- *abc*a# I have worked on USSD based applications using USSD services
+-   I have worked on USSD based applications using USSD services
 - 💬 Ask me about any Questions Related to front end and backend Technology or My journey into Software Development
 - 📫 How to reach me: +2348094451628 or njokdan@gmail.com
 <!--- 👯 I’m looking to collaborate on ...
