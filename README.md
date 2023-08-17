@@ -12,7 +12,7 @@ Currently, I am available for hire
 -   I have worked on PHP/Laravel based applications
 -   I am an avid Quality Software tester
 -   I have worked on USSD based applications using USSD services
-- 💬 Ask me about any Questions Related to front end and backend Technology or My journey into Software Development
+- 💬 Ask me about any Questions Related to Front end, UIUX, Cloud, Software Testing and Backend Technology or My journey into Software Development
 - 📫 How to reach me: +2348094451628 or njokdan@gmail.com
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...-->
