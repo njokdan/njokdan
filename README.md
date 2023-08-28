@@ -17,7 +17,8 @@ Currently, I am available for hire
 - 🌱 I’m currently still learning and using MERN MEAN MEVN daily
 -   I have worked on PHP/Laravel based applications
 -   I am an avid Quality Software tester
--   I have worked on USSD based applications using USSD services
+-   I have worked on USSD based applications using USSD services for security alerts and awareness creation
+-   I have worked on Fintech based applications involving payment, wallet, purchases, fund transfer services and ecormmerce system
 - 💬 Ask me about any Questions Related to Front end, UIUX, Cloud, Software Testing and Backend Technology or My journey into Software Development
 - 📫 How to reach me: +2348094451628 or njokdan@gmail.com
 <!--- 👯 I’m looking to collaborate on ...
