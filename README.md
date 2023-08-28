@@ -27,4 +27,4 @@ Currently, I am available for hire
 
 
 
-When I am not coding, I am reading books and biographies, twitting, blogging, watching tech talks, playing sports, traveling, Blockchain and A.I technologies or learning new things every single day.
+When I am not coding, I am reading books and biographies, twitting, blogging, watching tech talks, playing sports, traveling, researching on Robotic, Blockchain and A.I technologies or learning new things every single day.
