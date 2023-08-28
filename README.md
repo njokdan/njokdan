@@ -6,7 +6,7 @@ I am a Cloud Engineer, DevOps Engineer, fullstack developer, Data Analyst and Da
 
 I Love contributing to process growth and automation and also defining the need for scalabilty while ensuring maximum security.<!--I love creating open-source projects and contributing to the community.-->
 
-Some technologies I enjoy working with include, Reactjs, Angular, Vue, C#, Rust, Kotlin, NodeJs, SailsJs, Expressjs, PHP, Python, Erlang/Elixir/Phoenix, MongoDB, SQL, Firebase, Tableau, Power BI, AWS, Azure, Terraform, Blockchain, Docker(Container) and REST. 
+Some technologies I enjoy working with and i have worked with include, Reactjs/Nextjs, Angular, Vue, C#, Kotlin, NodeJs/NestJs, SailsJs, Expressjs, PHP/Laravel, Python/Django/Flask, Ruby/rail, golang/(Gin/Mux), Erlang, Elixir/Phoenix, Rust/Rocket, MongoDB, SQL, Firebase, Tableau, Power BI, AWS, Azure, Terraform, Blockchain, Docker(Container) and REST. 
 
 In general, i love and appreciate tinkering with problems in order to get its solution.
 
