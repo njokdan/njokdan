@@ -12,7 +12,7 @@ In general, i love and appreciate tinkering with problems in order to get its so
 
 Currently, I am available for hire
 
-- 🔭I’m currently working on Cloud, QA, A.I and DevOps related projects
+- 🔭I’m currently working on Cloud, Data pipeline, QA, A.I and DevOps related projects
 -  I’m currently working on Data related software projects
 - 🌱 I’m currently still learning and using MERN MEAN MEVN daily
 -   I have worked on PHP/Laravel based applications
