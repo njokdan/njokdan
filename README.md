@@ -67,7 +67,7 @@ Currently, I am available for hire
 - 📫 How to reach me: +2348094451628 or njokdan@gmail.com
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...-->
-- 😄 Pronouns: He/Him
+<!-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: You'd make my day if you sent me project works or creative and analytical task to do.
 
 
