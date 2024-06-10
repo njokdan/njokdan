@@ -8,14 +8,14 @@ Hi, I'm Daniel Njoku. I'm a passionate developer with a strong background in tec
 
 Here are some of my notable projects:
 
-- **[Project Name 1]**: [Brief description]
-- **[Project Name 2]**: [Brief description]
-- **[Project Name 3]**: [Brief description]
+- **flawaa**: This is a reward as a service app that helps to promote HMO access, customer retention and value trust seamlessly.
+- **callex**: This is a Ussd base app for instant alarm trigger to check against kidnapping, Robbery and terror attack
+- **takein**: This is a job board for posting jobs, and applying to jobs
 
 ### Skills
 
 - **Technical Support Engineering**: problem solving, attention to detail, troubleshooting
-- **Programming Languages**: Python, Javascript, PHP, C#, Bash
+- **Programming Languages**: Python, Javascript, PHP, C#, Bash, Powershell, go, rust
 - **Tools and Technologies**: Azure, AWS, Google, IBM, Markdown, Git/Github, Docker, Kubernetes, Terraform, Ansible, Jenkins, Digital Ocean, Azure DevOps, Github Actions
 
 ### Contact
