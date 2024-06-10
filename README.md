@@ -14,9 +14,9 @@ Here are some of my notable projects:
 
 ### Skills
 
-- **Technical Support Engineering**: [list specific skills or technologies]
-- **Programming Languages**: [list specific programming languages]
-- **Tools and Technologies**: [list specific tools and technologies]
+- **Technical Support Engineering**: problem solving, attention to detail, troubleshooting
+- **Programming Languages**: Python, Javascript, PHP, C#, Bash
+- **Tools and Technologies**: Azure, AWS, Google, IBM, Markdown, Git/Github, Docker, Kubernetes, Terraform, Ansible, Jenkins, Digital Ocean, Azure DevOps, Github Actions
 
 ### Contact
 
