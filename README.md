@@ -22,13 +22,8 @@ Here are some of my notable projects:
 
 If you'd like to connect or collaborate, feel free to reach out to me at [mail](njokdan@gmail.com) or [linkedin](https://www.linkedin.com/in/daniel-njoku-9790645b/).
 
-### Call to Action
 
-If you find this template helpful, please give it a ⭐️ to show your support!
 
-### Credits
-
-This README template was inspired by [njokdan](https://github.com/njokdan) and [chinmay29hub](https://github.com/chinmay29hub).
 
 
 
