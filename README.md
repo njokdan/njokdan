@@ -17,6 +17,7 @@ Here are some of my notable projects:
 - **Technical Support Engineering**: problem solving, attention to detail, troubleshooting
 - **Programming Languages**: Python, Javascript, PHP, C#, Bash, Powershell, go, rust
 - **Tools and Technologies**: Azure, AWS, Google, IBM, Markdown, Git/Github, Docker, Kubernetes, Terraform, Ansible, Jenkins, Digital Ocean, Azure DevOps, Github Actions
+- **AI Technologies**: OpenAI, Claude, Gemini, llama, grok, Prompt Engineering, API Integration, OpenClaw
 
 ### Contact
 
