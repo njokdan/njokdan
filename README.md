@@ -21,7 +21,7 @@ Here are some of my notable projects:
 
 ### Contact
 
-If you'd like to connect or collaborate, feel free to reach out to me at [mail](njokdan@gmail.com) or [linkedin](https://www.linkedin.com/in/daniel-njoku-9790645b/).
+If accuracy, speed of delivery, Quality delivery and Character is your stuff and you'd like to connect or collaborate, feel free to reach out to me at [mail](njokdan@gmail.com) or [linkedin](https://www.linkedin.com/in/daniel-njoku-9790645b/).
 
 
 
