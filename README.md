@@ -2,7 +2,7 @@
 
 ### About Me
 
-Hi, I'm Daniel Njoku. I'm a passionate developer with a strong background in technical support engineering. I love building innovative solutions and collaborating with others to create something amazing.
+Hi, I'm Daniel Njoku. I'm a passionate software/cloud/AI Engineer with a strong background in technical support engineering. I love building innovative solutions and collaborating with others to create something amazing.
 
 ### Projects
 
